@@ -1,0 +1,9 @@
+# Elm
+/build
+/elm-stuff
+/node_modules
+
+
+# Nix
+/.direnv
+
