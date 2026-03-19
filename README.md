@@ -1,4 +1,4 @@
-# nix-flakes-elm
+# elm-mytutorial
 
 ## Setup
 
